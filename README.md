@@ -8,7 +8,13 @@ A simple Java-based application that calculates the grades of students based on 
 - Calculates total score, percentage, and grade.
 - Simple command-line interface for user interaction.
 
-  ## Console excusation
+  ## Console Execution
+
+
+https://github.com/user-attachments/assets/02a25e82-99bf-456d-9bd9-7ea16b95ca74
+
+
+  
 
 ## Requirements
 
