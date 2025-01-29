@@ -54,5 +54,13 @@ Percentage: 84.33%
 
 Grade: B
 
+## Contact
 
+For any queries or feedback, please reach out:
+
+- **Developer:** Dharneesh S
+- **Email:** ddharnish42@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dharneesh-s-563a9b2a3/
+
+-      This project was developed to enhance backend coding skills for learning purposes. Feel free to contribute or share any suggestions!
 
